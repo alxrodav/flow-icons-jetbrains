@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>dev.flowicons.jetbrains</id>
     <name>Flow Icons</name>
-    <vendor url="https://flow-icons.pages.dev">Benjamin Halko</vendor>
+    <vendor url="https://flow-icons.pages.dev">alxrodav</vendor>
 
     <description
     ><![CDATA[
