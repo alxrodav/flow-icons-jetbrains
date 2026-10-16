@@ -24,8 +24,11 @@
     "bashly": ["bashly_hook"],
     "nest": [
       "nest_controller",
+      "nest_decorator",
       "nest_dto",
       "nest_entity",
+      "nest_filter",
+      "nest_gateway",
       "nest_guard",
       "nest_interceptor",
       "nest_interface",
